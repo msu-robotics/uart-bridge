@@ -641,24 +641,6 @@ mypy .
 - [PySerial](https://pythonhosted.org/pyserial/) - работа с serial портами
 - [Uvicorn](https://www.uvicorn.org/) - ASGI сервер
 
-## 📧 Контакты
-
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/uart-websocket-bridge/issues)
-
-## 🗺 Roadmap
-
-- [ ] Поддержка множественных UART портов
-- [ ] Буферизация данных
-- [ ] Запись данных в файл
-- [ ] WebUI для управления
-- [ ] Поддержка протоколов (Modbus, etc.)
-- [ ] Prometheus метрики
-- [ ] Rate limiting
-- [ ] Authentication & Authorization
-
 ---
 
 **Made with ❤️ using Python & FastAPI**
