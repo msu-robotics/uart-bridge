@@ -19,4 +19,4 @@ RUN uv sync --locked
 EXPOSE 8000
 
 # Запуск приложения
-CMD ["python", "main.py"]
+CMD ["uv", "run", "python", "main.py"]
